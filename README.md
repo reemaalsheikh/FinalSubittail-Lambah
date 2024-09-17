@@ -32,13 +32,13 @@ https://www.canva.com/design/DAGRAIeTgao/ep287jysWIKYo1-FyR02fw/view?utm_content
 
 _________________________________________
 
+ Model, Repository, Service And Controller
  
 - User
 - Student
 - Tutor
 - Course 
 - Certification
-Model, Repository, Service And Controller
 
 _________________________________________
 
