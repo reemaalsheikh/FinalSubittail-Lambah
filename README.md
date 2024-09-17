@@ -3,7 +3,7 @@
 Reema Mohammed Alsheikh
 
 0567905545
-
+_________________________________________
 وصف المشروع:
 
  لمبة - Lambah Website
@@ -13,6 +13,7 @@ Reema Mohammed Alsheikh
 A Peer Learning Platform enables students to share knowledge and tutor their peers in an interactive environment.
 It offers course management, tutoring sessions, and a marketplace for educational resources.
 
+_________________________________________
 
 
 Postman URL:
@@ -29,6 +30,7 @@ Presentation URL:
 
 https://www.canva.com/design/DAGRAIeTgao/ep287jysWIKYo1-FyR02fw/view?utm_content=DAGRAIeTgao&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
+_________________________________________
 
  
 - User
@@ -38,6 +40,8 @@ https://www.canva.com/design/DAGRAIeTgao/ep287jysWIKYo1-FyR02fw/view?utm_content
 - Certification
 Model, Repository, Service And Controller
 
+_________________________________________
+
 Relations:
 
 - User and Tutor (one to one)
@@ -46,29 +50,37 @@ Relations:
 - Tutor and Course (one to many)
 - Tutor and Certificate (one to many)
 
+_________________________________________
 
-Endpoints:
 
-1.issueCertificate
-2.Assign course to tutor
-3.courseFilter
-4.findCoursesByLearningMethod
-5.Assign Document to Session
-6.Assign Doc to student
-7.Assign exam to tutor
-8.applyDiscountToOrder
-9.assignReviewToTutor
-10.assignReviewToCourse
-11.assign session to course
-12.AssignSessionToTutor
-13.assignSessionToStudent
-14.studentRegister
-15.studentEnrollment
-16.getMostPopularCourses
-17.registerTutor
-18.getAllTutorsWithRecommendations
-19.Assign Zoom meeting to Session
-20.assignZoomToStudent
+20 Endpoints:
+
+- issueCertificate
+- Assign course to tutor
+- courseFilter
+- findCoursesByLearningMethod
+- Assign Document to Session
+- Assign Doc to student
+- Assign exam to tutor
+- applyDiscountToOrder
+- assignReviewToTutor
+- assignReviewToCourse
+- assign session to course
+- AssignSessionToTutor
+- AssignSessionToStudent
+- studentRegister
+- studentEnrollment
+- getMostPopularCourses
+- registerTutor
+- getAllTutorsWithRecommendations
+- Assign Zoom meeting to Session
+- assignZoomToStudent
+
+_________________________________________
+
+  
+
+
 
 
 ![Lambah Use Case](https://github.com/user-attachments/assets/93c84db5-3f7a-4089-905d-c61ba4ae5856)
