@@ -3,6 +3,9 @@
 Reema Mohammed Alsheikh
 
 0567905545
+
+LinkedIn URL:
+https://www.linkedin.com/in/reema-alsheikh-acp%C2%AE-756064210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 _________________________________________
 وصف المشروع:
 
@@ -45,11 +48,11 @@ _________________________________________
 
 Relations:
 
-- User and Tutor (one to one)
-- User and Student (one to one)
-- Student and Course (many to many)
-- Tutor and Course (one to many)
-- Tutor and Certificate (one to many)
+- User and Tutor (one to one).
+- User and Student (one to one).
+- Student and Course (many to many).
+- Tutor and Course (one to many).
+- Tutor and Certificate (one to many).
 
 _________________________________________
 
@@ -75,7 +78,7 @@ _________________________________________
 - registerTutor
 - getAllTutorsWithRecommendations
 - Assign Zoom meeting to Session
-- assignZoomToStudent
+- assignZoomToStudent.
 
 _________________________________________
 
@@ -87,4 +90,4 @@ _________________________________________
 ![Lambah Use Case](https://github.com/user-attachments/assets/93c84db5-3f7a-4089-905d-c61ba4ae5856)
 
 
-
+_________________________________________
