@@ -57,21 +57,19 @@ Relations:
 _________________________________________
 
 
-20 Endpoints:
+ Endpoints:
 
 - issueCertificate
-- Assign course to tutor
+- AddCourse
 - courseFilter
 - findCoursesByLearningMethod
-- Assign Document to Session
+- addDocument
 - Assign Doc to student
 - Assign exam to tutor
 - applyDiscountToOrder
-- assignReviewToTutor
-- assignReviewToCourse
-- assign session to course
-- AssignSessionToTutor
-- AssignSessionToStudent
+- AddReviewToTutor
+- AddReviewToCourse
+-  AddSession
 - studentRegister
 - studentEnrollment
 - getMostPopularCourses
