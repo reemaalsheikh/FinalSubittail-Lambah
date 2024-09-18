@@ -15,18 +15,21 @@ _________________________________________
 
 تتضمن الميزات الرئيسية ما يلي:
 
-1- إدارة الدورات والجلسات: يمكن للمدرسين إنشاء وإدارة الدورات أو جلسات التدريس، مما يوفر فرص التعلم الفردية والجماعية.
+- إدارة الدورات والجلسات: يمكن للمدرسين إنشاء وإدارة الدورات أو جلسات التدريس، مما يوفر فرص التعلم الفردية والجماعية.
 
-2- بيئة تعليمية تفاعلية: يمكن للطلاب الانضمام إلى الجلسات أو شرائها، والمشاركة في مجموعات الدراسة، والوصول إلى الدروس الخصوصية عند الطلب.
+- بيئة تعليمية تفاعلية: يمكن للطلاب الانضمام إلى الجلسات أو شرائها، والمشاركة في مجموعات الدراسة، والوصول إلى الدروس الخصوصية عند الطلب.
 
-3- سوق الموارد التعليمية: يتيح السوق المدمج للطلاب شراء أو بيع الكتب المستعملة ومواد الدراسة والموارد التعليمية الأخرى.
+- سوق الموارد التعليمية: يتيح السوق المدمج للطلاب شراء أو بيع الكتب المستعملة ومواد الدراسة والموارد التعليمية الأخرى.
 
 Project Description: Lamba 
-Our Peer Learning Platform is an innovative online education system designed to bridge the knowledge gap among students by enabling peer-to-peer learning. The platform allows students to become tutors, sharing their expertise and guiding fellow learners. It facilitates the creation of study sessions, tutoring, and knowledge exchange between peers in a flexible, collaborative environment.
+Our Peer Learning Platform is an innovative online education system designed to bridge the knowledge gap among students by enabling peer-to-peer learning.
+The platform allows students to become tutors, sharing their expertise and guiding fellow learners.
+It facilitates the creation of study sessions, tutoring, and knowledge exchange between peers in a flexible, collaborative environment.
+
 Key features include:
-Course and Session Management: Tutors can create and manage courses or tutoring sessions, offering both one-on-one and group learning opportunities.
-Interactive Learning Environment: Students can join or purchase sessions, participate in study groups, and access tutoring on-demand.
-Marketplace for Educational Resources: A built-in marketplace enables students to buy or sell used books, study materials, and other educational resources.
+- Course and Session Management: Tutors can create and manage courses or tutoring sessions, offering both one-on-one and group learning opportunities.
+- Interactive Learning Environment: Students can join or purchase sessions, participate in study groups, and access tutoring on-demand.
+- Marketplace for Educational Resources: A built-in marketplace enables students to buy or sell used books, study materials, and other educational resources.
 
 
 _________________________________________
@@ -75,6 +78,7 @@ _________________________________________
 - AddCourse
 - courseFilter
 - findCoursesByLearningMethod
+- getMostPopularCourses
 - addDocument
 - Assign Doc to student
 - Assign exam to tutor
@@ -84,7 +88,6 @@ _________________________________________
 -  AddSession
 - studentRegister
 - studentEnrollment
-- getMostPopularCourses
 - registerTutor
 - getAllTutorsWithRecommendations
 - addZoom
