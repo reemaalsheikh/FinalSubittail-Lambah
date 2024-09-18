@@ -90,7 +90,7 @@ _________________________________________
 - studentEnrollment
 - registerTutor
 - getAllTutorsWithRecommendations
-- addZoom
+- addZoom.
 - assignZoomToStudent.
 
 _________________________________________
